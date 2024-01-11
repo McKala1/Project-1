@@ -20,7 +20,7 @@
 
 * First I cleaned up the data by dropping any rows that had any null values. There were also irrelevant columns in the dataframe, like Region ID, we did not necessarily need this information. Other columns that we didn’t need either were the Size Rank, Region Type, a separate column telling the name of the state, and the Base Date.
 
-* I first plotted using a line graph, but this didn’t really give us any information, and it was hard to read. So instead I decided to use a bar graph. There were a lot of cities in the dataframe, as can be seen. This made the bar graph hard to read. 
+* I first plotted using a line graph, but this didn’t really give us any information, and it was hard to read. So instead I decided to use a bar graph. There were a lot of cities in the dataframe. This made the bar graph hard to read. 
 
 * Instead, I narrowed down the data to only plot the forecast for cities in Ohio. The cities are in order of size rank based on Zillow. From the biggest shown on the left, decreasing as you go to the right. This bar graph shows the forecast of the value of homes for cities in the state of Ohio for the coming month, quarter, and year. As it can be seen, medium-sized cities, toward the center of the graph, have a very large negative Zillow Home Value Index. A negative Zillow Home Value Index typically indicates a decrease in home values within a specific area over a particular period. It suggests that, on average, the houses in that area will depreciate in value.
 
