@@ -4,6 +4,7 @@
 
 <a href="https://docs.google.com/presentation/d/1Kh3zalNeDSe10xlnWiPzQ218AbuSXv8-if7WtuW2eWU/edit?usp=sharing">Our Presentation</a>
 
+Our main file is OSU_AI_Project_1.ipynb
 
 ## Zestimate Overview
 *Antonio
